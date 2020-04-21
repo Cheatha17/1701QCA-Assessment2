@@ -14,7 +14,7 @@
 
 ![Image](Spinner.PNG)
 
-This project is related to mine because * it includes similar codes of what I want to accomplish. 
+This project is related to mine because *it includes similar codes of what I want to accomplish. 
 These being:
 * Having the code start "on shake" 
 * Display arrows that change its direction
@@ -26,7 +26,7 @@ What differs is that I would like to manipulate the code/concept so that my arro
 [https://www.youtube.com/watch?v=uzihlj-oWxI](https://www.youtube.com/watch?v=uzihlj-oWxI)
 
 ![Image](LEDBOX.PNG)
-This project is related to mine because * although I don't know the code, the function of this project is something i brainstormed and a minor function I want in my project, that projects a certain colour on LED at the press of a button. A design choice I aim to implement. 
+This project is related to mine because *although I don't know the code, the function of this project is something i brainstormed and a minor function I want in my project, that projects a certain colour on LED at the press of a button. A design choice I aim to implement.*
 
 ### Related project 3 ###
 *Microbit Roulette Game*
@@ -49,14 +49,14 @@ This project is like mine because *it has the sam design concept and was used a 
 
 [https://www.element14.com/community/community/stem-academy/microbit/blog/2018/09/18/project-bbc-microbit-fitness-tracker-aka-step-counter](https://www.element14.com/community/community/stem-academy/microbit/blog/2018/09/18/project-bbc-microbit-fitness-tracker-aka-step-counter)
 ![Image](Counter.PNG)
-This project is like mine because * it's concept tis based around the field of fitness like mine. This project also uses the "on shake" input to initiate the number to start it's counter.*
+This project is like mine because *it's concept tis based around the field of fitness like mine. This project also uses the "on shake" input to initiate the number to start it's counter.*
 
 ### Related project 6 ###
 *Traffic Light*
 
 [https://makecode.microbit.org/v0/76087-58205-48910-18323](https://makecode.microbit.org/v0/76087-58205-48910-18323)
 ![Image](Traffic.PNG)
-This project is like mine because * it displays light after a count down, a function I am to include in mine, where it counts down someone doing an exercise and signals "Stop" and "Go" once done or before doing it. 
+This project is like mine because *it displays light after a count down, a function I am to include in mine, where it counts down someone doing an exercise and signals "Stop" and "Go" once done or before doing it.*
 
 ## Other research ##
 
