@@ -14,11 +14,11 @@
 
 ![Image](Spinner.PNG)
 
-This project is related to mine because *it includes similar codes of what I want to accomplish. 
+This project is related to mine because *it includes similar codes of what I want to accomplish.*
 These being:
 * Having the code start "on shake" 
 * Display arrows that change its direction
-What differs is that I would like to manipulate the code/concept so that my arrow spins "on shake" instead of randomly change its direction when shake.*
+What differs is that I would like to manipulate the code/concept so that my arrow spins "on shake" instead of randomly change its direction when shake.
 
 ### Related project 2 ###
 *Microbit RGB LED BOX*
@@ -41,7 +41,7 @@ This project is like mine because *It includes the function/code to spin which m
 
 [https://www.microbitmagazine.com/Project/24](https://www.microbitmagazine.com/Project/24)
 ![Image](LuckyRoulette.PNG)
-This project is like mine because *it has the sam design concept and was used a inspiration to adapt mine off. The project has it's own intent and instruction of use which differ from mine.*
+This project is like mine because *it has the same design concept and was used a inspiration to adapt mine off. The project has it's own intent and instruction of use which differ from mine.*
 
 
 ### Related project 5 ###
@@ -49,7 +49,7 @@ This project is like mine because *it has the sam design concept and was used a 
 
 [https://www.element14.com/community/community/stem-academy/microbit/blog/2018/09/18/project-bbc-microbit-fitness-tracker-aka-step-counter](https://www.element14.com/community/community/stem-academy/microbit/blog/2018/09/18/project-bbc-microbit-fitness-tracker-aka-step-counter)
 ![Image](Counter.PNG)
-This project is like mine because *it's concept tis based around the field of fitness like mine. This project also uses the "on shake" input to initiate the number to start it's counter.*
+This project is like mine because *it's concept is based around the field of fitness like mine. This project also uses the "on shake" input to initiate the number to start it's counter.*
 
 ### Related project 6 ###
 *Traffic Light*
