@@ -1,65 +1,156 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
-
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+*HIIT roulette* 
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+*Microbit Spinner*
 
-*Insert URL to project*
+[https://www.youtube.com/watch?v=iFgQl15hf8g](https://www.youtube.com/watch?v=iFgQl15hf8g)
 
-![Image](missingimage.png)
+![Image](Spinner.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because * it includes similar codes of what I want to accomplish. 
+These being:
+* Having the code start "on shake" 
+* Display arrows that change its direction
+What differs is that I would like to manipulate the code/concept so that my arrow spins "on shake" instead of randomly change its direction when shake.*
+
+### Related project 2 ###
+*Microbit RGB LED BOX*
+
+[https://www.youtube.com/watch?v=uzihlj-oWxI](https://www.youtube.com/watch?v=uzihlj-oWxI)
+
+![Image](LEDBOX.PNG)
+This project is related to mine because * although I don't know the code, the function of this project is something i brainstormed and a minor function I want in my project, that projects a certain colour on LED at the press of a button. A design choice I aim to implement. 
+
+### Related project 3 ###
+*Microbit Roulette Game*
+
+[https://www.youtube.com/watch?v=Wl01t95j338](https://www.youtube.com/watch?v=Wl01t95j338)
+
+![Image](MicrobitRoulette.PNG)
+This project is like mine because *It includes the function/code to spin which my project will include.*
+
+### Related project 4 ###
+*Lucky Roulette*
+
+[https://www.microbitmagazine.com/Project/24](https://www.microbitmagazine.com/Project/24)
+![Image](LuckyRoulette.PNG)
+This project is like mine because *it has the sam design concept and was used a inspiration to adapt mine off. The project has it's own intent and instruction of use which differ from mine.*
+
+
+### Related project 5 ###
+*Microbit step counter* 
+
+[https://www.element14.com/community/community/stem-academy/microbit/blog/2018/09/18/project-bbc-microbit-fitness-tracker-aka-step-counter](https://www.element14.com/community/community/stem-academy/microbit/blog/2018/09/18/project-bbc-microbit-fitness-tracker-aka-step-counter)
+![Image](Counter.PNG)
+This project is like mine because * it's concept tis based around the field of fitness like mine. This project also uses the "on shake" input to initiate the number to start it's counter.*
+
+### Related project 6 ###
+*Traffic Light*
+
+[https://makecode.microbit.org/v0/76087-58205-48910-18323](https://makecode.microbit.org/v0/76087-58205-48910-18323)
+![Image](Traffic.PNG)
+This project is like mine because * it displays light after a count down, a function I am to include in mine, where it counts down someone doing an exercise and signals "Stop" and "Go" once done or before doing it. 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
-### *Brief resource name/description* ###
+### *How to solder and sync LED RGB lights to a microbit. As a store bought LED strip light is too long, I'd have to cut it which removes the battery adapter at the end, this teaches me how to use jumper leads and how to use solder to connect it back with my cutted piece* ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+[https://www.youtube.com/watch?v=1PhghS_-NYc](https://www.youtube.com/watch?v=1PhghS_-NYc)
+
+### *This research was done prior to writing a material list and was in the planning process, I found this video when I thought of including and LCD screen in my project. This showed me how to code it, and also noted an important factor that the microbit coding software only provides exstensions for the 1602 LCD screen specifically. Which allowed me to specify and finalise the size of the LCD screen for it to be capatible for me.* ###
+
+[https://www.youtube.com/watch?v=oov5Q48V844](https://www.youtube.com/watch?v=oov5Q48V844)
 
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*A fun fitness coach that challenges and tests you fitness capabilities.*
 
-### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+### LED running coach ###
+*A suicide drill lined with led stripes. It will randomly light up a cone that is placed in variations of distance that you must race to, challenging one's reaction time.*
+![Image](IMG_6301.JPG)
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+### Punch Count ###
+*Boxing pad/bag that counts the number of punches one makes in a certain amount of time, to increase difficulty, there will be multiple rounds of which it limits or challenges you. E.g. one round will only allow you to kick or introduce rest where you can't hit or else the round is over.*
+![Image](IMG_1008.JPG)
 
-### Design concept 2 ###
-*Put details here.*
+### Roll with it (4th concept) ###
+*An Interactive giant cube, that when tossed or rolled will project or announce an exercise/activity and how many reps must be done. The first to finish will have to race to the cube (placed centered between participants) and hit the button to signal them finishing first.*
 
-### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+# Shape ideas #
+
+![Image](Cubebrainstorm.JPG)
+![Image](Progresssketch1.JPG)
+
+
+
+### HIIT Roulette ###
+* Aesthically will look like a roulette board, however the concept of a roulette is shown through the microbit, programmed to spin when shaken or when a button is pressed and to stop when button is pressed showing what exercise the person is going to do next, also have a timer of some sort.*
+
+![Image](IMG_1755.JPG)
+
+
+*This image below shows that I took the concept of my concept "Roll with it" and adapted it into a roulette form instead of a cube. I did this because my concept and goals for the "Roll with it concept", seemed unrealistic in regards to fitting the time frame, my experience and knowledge around coding and building.*
+
+![Image](Roulettesketch.JPG)
+
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
-
-![Image](missingimage.png)
+![Image](Flowchart.JPG)
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+*My initial goal was to have the code begin at the shake of the roulette, which proved to be successful. However, given much thought, I considered the functionality and the relevenace of this when being used. Putting myself in the shoes of someone who would use this for exercise, I asked myself the question, "would I have having to shake it after every exercise annoying or at all useful?". I found that having to stop and make such an effort to shake the product after each round would kill my momentum in exercising*
+![Image](ShakeScreenshot.PNG)
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+* The code shows me changing the input from 'on shake' to 'on button A' to hopefully aim for efficiency and effective userbility in the design*
 
-![Image](missingimage.png)
+![Image](ButtonAscreen.PNG)
+
+#### Watch Demonstration Video here ####
+[https://youtu.be/NbWZddA8jfQ](https://youtu.be/NbWZddA8jfQ)
+
+![Image](IMG_20022.JPG)
+
+### Materials list ###
+![Image](IMG_7153.JPG)
+![Image](Final3.JPG)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
+### Process photos ###
+![Image](IMG_1929.JPG) ![Image](Final3.JPG) ![Image](Final1.JPG) ![Image](Final4.JPG) ![Image](Final5.JPG) ![Image](Final6.JPG) ![Image](Final2.JPG) 
+
+## Discussion ##
+*The first probem I had to tackle was brainstorming an idea for a design. This however was done in our classes through discussions boards.* 
+
+*In reference to the 'Discover' process of of the Double Diamond design, my final intent and concepts were formed based on the issues of covid19. That being an essential topic of what can we do or what could help in this time of need, mentally and/or socially? From this moved me forward to the 'Define' process. Where I hold an interest and a lot of knowledge in sport and fitness which is a great idea to go off on as this something to practice since going outside is restricted and we are locked down in our own houses. Once forming an intent, I went forward to creating concepts for the 'developing process'.*
+
+*In my design process,as explained, the overall concept of my final design was an adaptation from the 'Roll with it' concept. At the very start of this design journey, the cube design fell favourite to me. However, over time I continued to think over and consider the realistic results for the final perfected design. Base on my little knowledge to the field and the time frame of about 4-5 weeks to put it all together, I thought it was best to simplify the idea so that it would simplify the process and funds. I also wanted to find another shape idea as I felt there was always going to be the complication of making the displayed exercise viewable from all angles if it were a cube, cylinder, ball and to somehow have that gurantee and reassurance in the design process that it won't flip the wrong way.* 
+
+*In terms of coding, like I sidad before I initially wanted to put the input 'on shake' but for the time being it seemed better to just have a button for the input.* 
+
+*The physical design process was overall successfull, however measurements need to be perfected. The calculations were wrong so trims had to be made for the pieces going around, roughly 62.8cm (as seen) down to approx 40cm.*
+![Image](IMG_1596.JPG)
+
+*Another minor issue was the division of the exercises on the circle. There is only so little or far the arrow can ago in between spins, so it does not accompany the amount of triangles on the circle.*
+
+*For the perfected design I had bought, precut wood round placemats that are 25cmx25cm. For the main material of the final project.*
+
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+* Purchase an 1602 LCD screen in hopes of displaying "Go", "Ready" and the reps for each exercise.
+* Learn how to code for LED RGB strips, along with this is cutting the strips and using solder to be able to connect and pair with the microbit. The LED will act as a signal, green for "GO" and red for "stop". I do not know if i am able to achieve this but I already had LED strips on hand and would like to add it as an aesthetic feature.
+* Finalise how many triangles will work with how the arrow spins.
+* Create or add foldable legs to the back so that it can sit up right and be viewed at a good angle for users. 
+* An alternative that I brainstormed was adding a magnetic strip to the back to hang of metal surfaces. 
+
+
+
